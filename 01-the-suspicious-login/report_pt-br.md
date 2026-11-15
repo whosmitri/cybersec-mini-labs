@@ -4,6 +4,7 @@
 * **Arquivo analisado:** `auth.log`
 * **Data dos registros:** 08 de novembro
 * **Tipo de análise:** Investigação de autenticações SSH
+* **Minhas anotações:** [The Suspicious Login](https://app.notion.com/p/The-Suspicious-Login-417513afc32e801aa6e0ce1f4d9fb4c9?source=copy_link)
 
 ## 1. Resumo do incidente
 
